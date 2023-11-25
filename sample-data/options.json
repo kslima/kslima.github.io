@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Page": "Main",
+    "Menu": "MainPageConsultant",
+    "Options": [
+      "Anderson Esdra",
+      "Kleuder Lima"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Menu": "MainPageAssociation",
+    "Options": [
+      "Canacampo",
+      "Canasol"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Menu": "MainPagePlant",
+    "Options": [
+      "Usina Coruripe Açúcar e Álcool",
+      "Usina Santo Ângelo"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Menu": "MainPageInspector",
+    "Options": [
+      "Heloisa Larissa Sophia Cavalcanti",
+      "Caroline Sônia Juliana Melo"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Menu": "MainPageLeader",
+    "Options": [
+      "Enzo Henrique Aparício",
+      "Mário Juan Vieira"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Menu": "MainPageLaboratoryLeader",
+    "Options": [
+      "Severino Cláudio Bento Figueiredo",
+      "Emanuel Danilo Moraes"
+    ]
+  }
+]

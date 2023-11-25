@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Id": "ba3da7b5-9c24-48f1-a1e8-d21da7167edc",
+    "Description": "Usina",
+    "Options": [
+      {
+        "Id": "a4c250a7-5768-4a47-bcd8-9341d682418c",
+        "Description": "Coruripe Acucar e Alcool"
+      },
+      {
+        "Id": "74dc1d88-8ca2-4596-b78b-6463ef5ce881",
+        "Description": "Usina Sto Angelo"
+      }
+    ]
+  },
+  {
+    "Id": "d3cc5257-3a5b-4401-9bac-0e4a705f98f5",
+    "Description": "Supervisor",
+    "Options": [
+      {
+        "Id": "1612c8be-e57f-411a-9a45-09c10da45f3e",
+        "Description": "Kleuder Lima"
+      },
+      {
+        "Id": "8b5daf90-75f3-44a5-a8a1-f6154c98d986",
+        "Description": "Thomas Oliveira"
+      }
+    ]
+  }
+]

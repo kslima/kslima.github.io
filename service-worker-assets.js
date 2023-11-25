@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-UJk6UirJ+yAtYsVywdy3b6SB8XnBMi+sibmyagIiBF8=",
+      "hash": "sha256-GocFfvREMXBvo\/zwFFCC7cOI\/+NqZfm6R+\/ePZX1Rww=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-1fsS87IgQgak3rKJpxrfNCWRTw7lrPgdhrNOEPO2F2g=",
+      "hash": "sha256-oJhLr3HAYsdxw2BMqEPNHEpdzNtfsKjpQoMCPJVTie8=",
       "url": "_framework\/FiscalLabApp.wasm"
     },
     {
@@ -829,7 +829,7 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-sM2k3zpcR8id0ew0msheNf3N0qlX7HLq+OMMZK1SEf8=",
+      "hash": "sha256-oKxczKbG9LxeFPwn9zO81E4WSEpdPse5qwFV94Zqlc8=",
       "url": "index.html"
     },
     {
@@ -857,5 +857,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "+mxzgaCB"
+  "version": "5yp6+efa"
 };

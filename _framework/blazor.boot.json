@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FiscalLabApp",
   "resources": {
-    "hash": "sha256-MUFUD7ls2CxnkiV0IzWjKi9Uj2mSOsz22IJwRy7uVE4=",
+    "hash": "sha256-rGEjQat2e2Jcfx+YtdsE/WQlTCFIxnEeB8HV8IdoFS0=",
     "jsModuleNative": {
       "dotnet.native.8.0.0-rc.2.23479.6.yt7kqgn6i6.js": "sha256-9prN/5lb3WIsk2ApeMfArAoTBSsUab3y9MBUmgxjV38="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "FiscalLabApp.wasm": "sha256-fEnsr9+43hr1ZziwaQgr4RxRubQK4SGhsb8pgAvrr14=",
+      "FiscalLabApp.wasm": "sha256-6uBgmGxtNb8QR0zZk1ETtb+vRHIDdIAjMehWl48Xav8=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-Q4YrwXOKgZc4CIxLn4i7jPus6lpMd+5166XXcwVdTEY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-t3MsVHv9dVu4e/wESRrTfi07DqcFx395b6Bc+CimsRA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-j1wl3eNq0fVzoqmVV1SYKW0Qla9ROBcEtg5EGPKOUVg=",

@@ -17,7 +17,7 @@
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-ZcBkL0VLjSVy4Y2yrhc\/tjJx4lhxTfVb96R8KNXh0KM=",
       "url": "icon-192.png"
     },
     {
@@ -49,7 +49,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-7CvCdXVwkek3bmjLglyT2RP2VQGvTx0PXFUMP5Mxz2E=",
+      "hash": "sha256-zOnWTDZZj1SqVVauZA2pFp\/AlZ+2kRNU1KzwsPP\/hx0=",
       "url": "FiscalLabApp.styles.css"
     },
     {
@@ -85,11 +85,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-G1fTgM9EXgaI1cNjTyfKwmBxlEdP\/4tmrm6Hx1V\/29c=",
+      "hash": "sha256-iaK77vLOUKYXHeMMCdro6K8TWXOo31phKxU55maoI7I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-fEnsr9+43hr1ZziwaQgr4RxRubQK4SGhsb8pgAvrr14=",
+      "hash": "sha256-6uBgmGxtNb8QR0zZk1ETtb+vRHIDdIAjMehWl48Xav8=",
       "url": "_framework\/FiscalLabApp.wasm"
     },
     {
@@ -1977,5 +1977,5 @@
       "url": "_content\/Microsoft.Fast.Components.FluentUI\/Microsoft.Fast.Components.FluentUI.lib.module.js"
     }
   ],
-  "version": "kN7E97VT"
+  "version": "c6HIfsE7"
 };

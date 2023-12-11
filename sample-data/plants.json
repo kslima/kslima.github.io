@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "ac23ac56-8892-41bd-891d-23357f4a8e9a",
+    "Name": "Usina Coruripe Açúcar e Álcool",
+    "City": "Campo Florido",
+    "State": "MG"
+  },
+  {
+    "Id": "61b539bb-da97-4874-ad15-f07147da9524",
+    "Name": "Usina Coruripe Açúcar e Álcool",
+    "City": "Carneirinho",
+    "State": "MG"
+  },
+  {
+    "Id": "dac1912f-cf72-4707-87c3-cd766970f827",
+    "Name": "Usina Santo Ângelo Ltda",
+    "City": "Pirajuba",
+    "State": "MG"
+  },
+  {
+    "Id": "829d52a4-ba2e-46b6-af14-74e0af0f1429",
+    "Name": "Delta Sucroenergia - Unit Volta Grande",
+    "City": "Conceição das Alagoas",
+    "State": "MG"
+  },
+  {
+    "Id": "20c3b0cd-eebc-4789-9b1a-784eab7f4658",
+    "Name": "BP Bunge - Itumbiara Bioenergia",
+    "City": "Itumbiara",
+    "State": "GO"
+  }
+]

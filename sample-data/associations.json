@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "f739f337-d919-4851-a308-43c93162914a",
+    "Name": "ACAER - Associação dos Canavieiros Entre Rios",
+    "City": "Cachoeira Dourada",
+    "State": "GO",
+    "Emails": "kleuder_souza@hotmail.com;"
+  },
+  {
+    "Id": "b2759f3f-4789-403a-9021-ba6b11fa893a",
+    "Name": "AFCOP - Associação dos Fornecedores de Cana da Região Oeste Paulista",
+    "City": "Valparaíso",
+    "State": "SP",
+    "Emails": "kleuder_souza@hotmail.com;"
+  },
+  {
+    "Id": "a9e6a487-bcb0-4f98-9a3c-1da73ffde11c",
+    "Name": "CANACAMPO - Associação dos fornecedores de cana da região de Campo Florido - MG",
+    "City": "Campo Florido",
+    "State": "MG",
+    "Emails": "kleuder_souza@hotmail.com;"
+  },
+  {
+    "Id": "214f14fc-0492-4e6b-9fab-f3437d2d49a5",
+    "Name": "CANAOESTE - Associação dos Plantadores de Cana do Oeste do Estado de São Paulo",
+    "City": "Sertãozinho",
+    "State": "SP",
+    "Emails": "kleuder_souza@hotmail.com;"
+  },
+  {
+    "Id": "a8d88602-4286-41f9-8bdd-fd25878c74ab",
+    "Name": "NOVOCANA - Associação dos Fornecedores de Cana da Região de Novo Horizonte",
+    "City": "Novo Horizonte",
+    "State": "SP",
+    "Emails": "kleuder_souza@hotmail.com;"
+  }
+]

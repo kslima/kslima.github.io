@@ -7,6 +7,7 @@
         db.createObjectStore("menus", { keyPath: "code" });
         db.createObjectStore("visits", { keyPath: "id" });
         db.createObjectStore("plants", { keyPath: "id" });
+        db.createObjectStore("associations", { keyPath: "id" });
     }
 }
 

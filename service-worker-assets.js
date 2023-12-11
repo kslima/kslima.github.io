@@ -1,24 +1,24 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-IEU1twEQUygzHnol9ihcgPT0a6vL1X8J7FmFMm0AKdM=",
+      "hash": "sha256-rcIWTVNnYus6VWf2Z2U1g\/JzlC07Ym02cFjHtI59Xsc=",
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-u+8Xakm+L99EG4GRNQDn9VDkLYMUZnxgamuKuiLhZ9c=",
+      "hash": "sha256-GhUDBeylTPHdJKKlfWVTLPy0keFtUZvPAYva+5GOiD4=",
       "url": "_framework\/dotnet.js"
     },
     {
-      "hash": "sha256-9prN\/5lb3WIsk2ApeMfArAoTBSsUab3y9MBUmgxjV38=",
-      "url": "_framework\/dotnet.native.8.0.0-rc.2.23479.6.yt7kqgn6i6.js"
+      "hash": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI=",
+      "url": "_framework\/dotnet.native.8.0.0.n07g1jbduc.js"
     },
     {
-      "hash": "sha256-dSvX77AB5Y7asjr4j2EUsUIse4M5a0cnLN1M8PsAZDY=",
+      "hash": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-giy\/yLhvB9hsa1DCWVWnpxpuf6kKvlYFh5rifY3mpQg=",
-      "url": "_framework\/dotnet.runtime.8.0.0-rc.2.23479.6.ks06n1yn6p.js"
+      "hash": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw=",
+      "url": "_framework\/dotnet.runtime.8.0.0.cuto84hko6.js"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-uQ+UFuLArNGUEwTUO8vZ\/pi4z3N+GFQ\/vj\/kvdCk8ps=",
+      "hash": "sha256-fl0NXGCPDv1Rh\/2FT9IhJyotaGyoW29k+ocowtf3F7s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-AifIJNjlGFInlwJmCvPCOPfWX0pHllkufAITbQXmmCs=",
+      "hash": "sha256-mk9oKWXToaP12ZoGURhshcF0+Lg4uCT193zz2vUtgBY=",
       "url": "_framework\/FiscalLabApp.wasm"
     },
     {
@@ -805,7 +805,7 @@
       "url": "_framework\/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-BfMTx35MOg1A9pVJ7UWJ+sH\/h+xpFTB0k\/T+NUPIqlU=",
+      "hash": "sha256-AVAyVKOjEErheF7uFKT\/70Wz1wqqz35FJGFvqicod9c=",
       "url": "FiscalLabApp.styles.css"
     },
     {
@@ -833,11 +833,15 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-i\/WUEssRIWqKjN49DNqo6LpvbdKHMKm7XHDoJDqe71w=",
+      "hash": "sha256-3NUyoVEiS05nb\/CXqIwfig0Ue97nyCa+MPYH+hsbcSU=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-pswUjRPxqC4eTEjn72zcnKaHsZ9CJMvn4uR4P5I8v\/w=",
+      "hash": "sha256-N0iGldZ8FU+L6rHitS1R1Am1szqU6zZxVWZ3SABfGZ8=",
+      "url": "js\/file.js"
+    },
+    {
+      "hash": "sha256-bc6vomAJSVKF7fY2eybQpVTjkVl8uCLEqSrRE7odyAU=",
       "url": "js\/IndexedDbAccessor.js"
     },
     {
@@ -845,15 +849,15 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-oNss9twJVnov4v2lL79twrMBKcFgb73UDv8lPrSThkA=",
+      "hash": "sha256-oCGa5kPCskLwlIAZoPJguDO4T\/DWdOiddxKslDmSzco=",
+      "url": "plant.svg"
+    },
+    {
+      "hash": "sha256-Vptou7wmz4RfdIjjpnipm6fGL4p3KVvTX9UKcBjDNsU=",
       "url": "sample-data\/menus.json"
     },
     {
-      "hash": "sha256-eGP7icOI6AuXKpMl7Q3S4p7xP9SeVW5qBBfxhsX4R44=",
-      "url": "sample-data\/options.json"
-    },
-    {
-      "hash": "sha256-FsuWKTcSlXAeEV68dV1LqWspE7XcIuqT30dRr\/2JlBs=",
+      "hash": "sha256-WC6Qbl7232soyYkf4EKilJEslQp\/9ffXEOeGwNCOggM=",
       "url": "sample-data\/visit-pages.json"
     },
     {
@@ -861,5 +865,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "AiVDLRSK"
+  "version": "mDaWtlNN"
 };

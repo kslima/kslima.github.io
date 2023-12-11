@@ -1,38 +1,38 @@
 ﻿[
   {
     "Description": "Principal",
-    "Route": "main-visit"
+    "Page": "main"
   },
   {
     "Description": "Balança de Cana",
-    "Route": "cane-balance"
+    "Page": "cane-balance"
   },
   {
     "Description": "Sonda/Desintegrador",
-    "Route": "desintegrator-probe"
+    "Page": "desintegrator-probe"
   },
   {
     "Description": "Balança Analítica/Temperatura",
-    "Route": "analytical-balance"
+    "Page": "analytical-balance"
   },
   {
     "Description": "Prensa/Refratômetro",
-    "Route": "press-refractometer"
+    "Page": "press-refractometer"
   },
   {
     "Description": "Clarificação/Sacarímetro",
-    "Route": "clarification-saccharimeter"
+    "Page": "clarification-saccharimeter"
   },
   {
     "Description": "Equipamentos de Aferição/Medias",
-    "Route": "benchmarking-equipment"
+    "Page": "benchmarking-equipment"
   },
   {
     "Description": "Consistência do Sistema",
-    "Route": "system-consistency"
+    "Page": "system-consistency"
   },
   {
     "Description": "Conclusão",
-    "Route": "conclusion"
+    "Page": "conclusion"
   }
 ]

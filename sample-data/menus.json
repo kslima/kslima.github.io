@@ -1,30 +1,1016 @@
 ﻿[
   {
-    "Id": "ba3da7b5-9c24-48f1-a1e8-d21da7167edc",
-    "Description": "Usina",
+    "Page": "Main",
+    "Code": "MainPageConsultant",
     "Options": [
-      {
-        "Id": "a4c250a7-5768-4a47-bcd8-9341d682418c",
-        "Description": "Coruripe Acucar e Alcool"
-      },
-      {
-        "Id": "74dc1d88-8ca2-4596-b78b-6463ef5ce881",
-        "Description": "Usina Sto Angelo"
-      }
+      "Anderson Esdra",
+      "Kleuder Lima",
+      "Buddy A. Morrell",
+      "Brett C. Blaze",
+      "Alvaro L. Ladner"
     ]
   },
   {
-    "Id": "d3cc5257-3a5b-4401-9bac-0e4a705f98f5",
-    "Description": "Supervisor",
+    "Page": "Main",
+    "Code": "MainPageAssociation",
     "Options": [
-      {
-        "Id": "1612c8be-e57f-411a-9a45-09c10da45f3e",
-        "Description": "Kleuder Lima"
-      },
-      {
-        "Id": "8b5daf90-75f3-44a5-a8a1-f6154c98d986",
-        "Description": "Thomas Oliveira"
-      }
+      "Canacampo",
+      "Canasol"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Code": "MainPagePlant",
+    "Options": [
+      "Usina Coruripe Açúcar e Álcool",
+      "Usina Santo Ângelo"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Code": "MainPageInspector",
+    "Options": [
+      "Heloisa Larissa Sophia Cavalcanti",
+      "Caroline Sônia Juliana Melo"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Code": "MainPageLeader",
+    "Options": [
+      "Enzo Henrique Aparício",
+      "Mário Juan Vieira"
+    ]
+  },
+  {
+    "Page": "Main",
+    "Code": "MainPageLaboratoryLeader",
+    "Options": [
+      "Severino Cláudio Bento Figueiredo",
+      "Emanuel Danilo Moraes"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageInScale",
+    "Options": [
+      "Limpa e nivelada",
+      "Excesso de terra",
+      "Danificada",
+      "Em manutenção"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageOutScale",
+    "Options": [
+      "Limpa e nivelada",
+      "Excesso de terra",
+      "Danificada",
+      "Em manutenção"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageCargoDraw",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageScaleObservations",
+    "Options": [
+      "--",
+      "Não realizado",
+      "Realizado teste das balanças de cana, não foi detectado irregularidades",
+      "Não realizado - moagem parada por excesso de chuvas",
+      "Não realizado - moagem  parada, manutenção na indústria."
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageCalibration1",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageCalibration2",
+    "Options": [
+      "--",
+      "Sim",
+      "Não",
+      "1° calibração valida"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageResponsibleBody",
+    "Options": [
+      "--",
+      "Toledo",
+      "Não realizado",
+      "In-metro"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageCalibrationCertificate",
+    "Options": [
+      "--",
+      "Sim, entregue",
+      "Não foi entregue"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageObservations1",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Em conformidade com as normas do Consecana",
+      "Aguardando envio dos certificados de calibrações"
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePagePlantPercentage",
+    "AddPercentageOptions": true,
+    "Options": [
+      "--",
+      "Sem informações disponíveis durante visita técnica",
+      "Controle realizado em planilha separada, enviado p/Whatsapp."
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageProviderPercentage",
+    "AddPercentageOptions": true,
+    "Options": [
+      "--",
+      "Sem informações disponíveis durante visita técnica",
+      "Controle realizado em planilha separada, enviado p/Whatsapp."
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePagePlantFarmPercentage",
+    "Options": [
+      "--",
+      "Conforme tabela Consecana",
+      "Irregular tabela Consecana",
+      "Sem informações disponivel durante visita técnica",
+      "Controle realizado em planilha separada, enviado p/Whatsapp."
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageFarmProviderPercentage",
+    "Options": [
+      "--",
+      "Conforme tabela Consecana",
+      "Irregular tabela Consecana",
+      "Sem informações disponivel durante visita técnica",
+      "Controle realizado em planilha separada, enviado p/Whatsapp."
+    ]
+  },
+  {
+    "Page": "SugarcaneBalance",
+    "Code": "CaneBalancePageObservations2",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Sem informações durante visita técnica",
+      "Em conformidade com as normas do Consecana",
+      "Controle realizado em planilha separada, enviado p/Whatsapp."
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageProbeType",
+    "Options": [
+      "--",
+      "Horizontal",
+      "Oblíqua",
+      "Trator"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageTubeInserted",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageTubeDischarged",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageCollect",
+    "Options": [
+      "--",
+      "1 posição, 2 etapas",
+      "3 posições",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageSampleAmount",
+    "Options": [
+      "--",
+      "Sim, superior a 10kg",
+      "Não, inferior a 10kg"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageBrothExtraction",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageLoadPosition",
+    "Options": [
+      "--",
+      "Centralizada",
+      "Irregular",
+      "Conforme sorteio"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageToothedCrown",
+    "Options": [
+      "--",
+      "Facas afiadas",
+      "Facas quebradas",
+      "Facas sem corte",
+      "Facas amassadas",
+      "Serrinhas quebradas",
+      "Fraquinhas amassadas e sem corte"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageToothedCrownType",
+    "Options": [
+      "--",
+      "Facas",
+      "Serrilhada",
+      "Faquinhas",
+      "Serrilhada/faquinhas"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageObservations3",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório sem analisar, indústria em manutenção.",
+      "Laboratório parado, excesso de chuvas.",
+      "Laboratório parado por falta de funcionários.",
+      "Laboratório parado, manutenção sonda",
+      "Laboratório sem analises, industria em manutenção."
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageHomogeneousSamples",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageKnifeConservation",
+    "Options": [
+      "--",
+      "Bom estado",
+      "Bordas arredondadas",
+      "Péssimo estado",
+      "Facas afiadas",
+      "Com dentes, sem corte.",
+      "Facas com dentes"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageAgainstKnifeConservation",
+    "Options": [
+      "--",
+      "Bom estado",
+      "Bordas arredondadas",
+      "Péssimo estado",
+      "Danificada"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageKnifeAgainstKnifeDistance",
+    "Options": [
+      "--",
+      "2mm +ou- 0,5mm",
+      "> máximo permitido (2,5mm)",
+      "< mínimo  permitido (1,5mm)",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageHammerConservation",
+    "Options": [
+      "--",
+      "Bom estado",
+      "Bordas arredondadas",
+      "Péssimo estado",
+      "Leve desgaste",
+      "Martelos invertidos",
+      "Martelos danificados"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageCleanMixer",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageDesintegratorRpm",
+    "Options": []
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePagePreparationIndex",
+    "Options": []
+  },
+  {
+    "Page": "DesintegratorProbe",
+    "Code": "DesintegratorProbePageObservations4",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuva",
+      "Laboratoria parado por falta de funcionário.",
+      "Laboratório sem analises, industria em manutenção."
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceHomogeneousWeight",
+    "Options": [
+      "--",
+      "Irregular",
+      "+ou- 2kg"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceFinalWeight",
+    "Options": [
+      "--",
+      "Irregular",
+      "500g (+ou- 0,5)"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceCalibratedBalance",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceLeveledBalance",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceCalibrationCertificateBalance",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceObservations5",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuvas",
+      "Laboratoria parado por falta de funcionários.",
+      "Laboratório sem analises, industria em manutenção.",
+      "Laboratório parado, manutenção sonda"
+    ]
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceAverageAmbientTemperature",
+    "Options": []
+  },
+  {
+    "Page": "AnalyticalBalance",
+    "Code": "AnalyticalBalanceObservations6",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Temperatura irregular"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerPressureGaugeCertificated",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerDiscardCup",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerCollectorBottle",
+    "Options": [
+      "--",
+      "Seco",
+      "Úmido",
+      "Com gotas d'agua"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerPressure",
+    "Options": [
+      "--",
+      "250kgf/cm2 (+ou- 2kgf)",
+      "Irregular (inferior a 250kgf/cm2 +ou- 2kgf)",
+      "Irregular (superior  a 250kgf/cm2 +ou- 2kgf)",
+      "Instável"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerTimer",
+    "Options": [
+      "--",
+      "60 segundos",
+      "Irregular (inferior 60 segundos)",
+      "Irregular (superior 60 segundos)"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerPressCleaning",
+    "Options": [
+      "--",
+      "Frequente",
+      "Periódica",
+      "A cada turno",
+      "Não realiza",
+      "Irregular(suja)"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerObservations7",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuvas",
+      "Laboratoria parado por falta de funcionários.",
+      "Laboratório sem analises, industria em manutenção.",
+      "Laboratório parado, manutenção sonda"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerBrothHomogenization",
+    "Options": [
+      "--",
+      "Sempre",
+      "Periódica",
+      "Irregular",
+      "Não realiza"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerRefractometerCalibrationCertificate",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerPrecisionReading",
+    "Options": [
+      "--",
+      "Estável",
+      "Irregular(instável)"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerRefractometerBenchmarking",
+    "Options": [
+      "--",
+      "A cada turno",
+      "Periódico",
+      "A cada amostra",
+      "Não realiza"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerRefractometerCleaning",
+    "Options": [
+      "--",
+      "Frequente",
+      "Periódico",
+      "A cada amostra",
+      "Não realiza",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerInternalTemperature",
+    "Options": []
+  },
+  {
+    "Page": "PressRefractometer",
+    "Code": "PressRefractometerObservations8",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuvas",
+      "Laboratoria parado por falta de funcionários.",
+      "Laboratório sem analises, industria em manutenção.",
+      "Laboratório parado, manutenção sonda",
+      "NIRS - Teste de eficiência e métodos de trabalho em conformidade."
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterBottle",
+    "Options": [
+      "--",
+      "Seco",
+      "Úmido",
+      "Com gotas d'agua",
+      "Sujo"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterAgitation",
+    "Options": [
+      "--",
+      "Mecânica",
+      "Manual"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterHasDilution",
+    "Options": [
+      "--",
+      "Não",
+      "Sim (excesso de impurezas)"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterClarifier",
+    "Options": [
+      "--",
+      "Octapol",
+      "Chiaro",
+      "Alumínio",
+      "Sugarpol",
+      "Filterpol",
+      "Claripol"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterClarifierAmount",
+    "Options": [
+      "--",
+      "6 gramas",
+      ">6 gramas",
+      "<6 gramas",
+      "Suficiente para boa clarificação",
+      "14g",
+      "Superior a 14g"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterBottleClarifiedVolume",
+    "Options": [
+      "--",
+      "75ml",
+      ">75ml",
+      "<75ml",
+      "Sem padrão",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterBottleAfterClarifiedVolume",
+    "Options": [
+      "--",
+      "Sim",
+      "Não",
+      "Sem padrão",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterObservations9",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuvas",
+      "Laboratoria parado por falta de funcionários.",
+      "Laboratório sem analises, industria em manutenção.",
+      "Laboratório parado, manutenção sonda"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterStabilization",
+    "Options": [
+      "--",
+      "Boa",
+      "Estável",
+      "Instável",
+      "Ruim"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterBenchmarking",
+    "Options": [
+      "--",
+      "A cada turno",
+      "Frequente",
+      "Periódico",
+      "Sem padrão(deficiente)"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterQuartzPattern",
+    "Options": []
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterQuartzResult",
+    "Options": []
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterQuartzReading",
+    "Options": [
+      "--",
+      "Dentro do padrão",
+      "Fora do padrão"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterCalibrationCertificate",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterTubeCleaning",
+    "Options": [
+      "--",
+      "A cada turno",
+      "Frequente",
+      "Periódico",
+      "Sem padrão(deficiente)"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterClearCollingCooler",
+    "Options": [
+      "--",
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "Page": "ClarificationSaccharimeter",
+    "Code": "ClarificationSaccharimeterObservations10",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Laboratório parado, excesso de chuvas",
+      "Laboratoria parado por falta de funcionários.",
+      "Laboratório sem analises, industria em manutenção.",
+      "Laboratório parado, manutenção sonda",
+      "NIRS - Teste de eficiência e métodos de trabalho em conformidade."
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentLoadCell",
+    "Options": [
+      "--",
+      "250kgf/cm2 (+ou- 2kgf)",
+      "> 252kgf/cm2",
+      "< 248kgf/cm2",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentThermometer",
+    "Options": [
+      "--",
+      "Dentro das normas (20°C +ou-3°C)",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentTachometer",
+    "Options": [
+      "--",
+      "Dentro das normas (2.500 RPM)",
+      "Dentro das normas (2.400 RPM)",
+      "Dentro das normas (3.200 RPM)",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentPachymeter",
+    "Options": [
+      "--",
+      "Dentro das normas (2mm +ou- 0,5mm)",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipment500Gm",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipment100Gm",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipment1Gm",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentSucroseTest",
+    "Options": [
+      "--",
+      "Realizado",
+      "Não realizado"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentRange10",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentRange20",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentRange30",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentZ25",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentZ50",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentZ75",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentZ100",
+    "Options": [
+      "--",
+      "Confere",
+      "Não realizado",
+      "Irregular"
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentObservations11",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Os testes são realizados quando constatado problemas no refratômetro e sacarímetro."
+    ]
+  },
+  {
+    "Page": "BenchmarkingEquipment",
+    "Code": "BenchmarkingEquipmentObservations12",
+    "Options": [
+      "--",
+      "Em conformidade com as normas do Consecana/SP",
+      "Sem informações disponíveis durante visita técnica",
+      "Todos os equipamentos, processos e métodos de trabalhos foram checados e aferidos conforme normas do Consecana e não foi detectado anomalias ou seja sem inconformidades.",
+      "O sistema esta juntando todos os dados da moagem de março no dia 01/04."
+    ]
+  },
+  {
+    "Page": "SystemConsistency",
+    "Code": "SystemConsistencyOc",
+    "Options": []
+  },
+  {
+    "Page": "SystemConsistency",
+    "Code": "SystemConsistencyFarm",
+    "Options": []
+  },
+  {
+    "Page": "SystemConsistency",
+    "Code": "SystemConsistencyOwner",
+    "Options": []
+  },
+  {
+    "Page": "SystemConsistency",
+    "Code": "SystemConsistencyObservations",
+    "Options": [
+      "--",
+      "Fórmula consistente, não detectado irregularidades.",
+      "Sem informações disponíveis durante visita técnica",
+      "Fórmula consistência,  sem inconformidade.",
+      "Sem informações durante visita técnica, mas é auditado a fórmula viagem a viagem através dos relatórios enviados pela usina.",
+      "Auditoria da fórmula realizado em sistema separado, através do envio diário das entradas."
+    ]
+  },
+  {
+    "Page": "Conclusion",
+    "Code": "ConclusionInspectorPerformance",
+    "Options": [
+      "--",
+      "Ótima",
+      "Boa",
+      "Ruim",
+      "Regular",
+      "Sem fiscal"
+    ]
+  },
+  {
+    "Page": "Conclusion",
+    "Code": "ConclusionLaboratoryPerformance",
+    "Options": [
+      "--",
+      "Ótima",
+      "Boa",
+      "Ruim",
+      "Regular",
+      "Desempenho:Regular",
+      "Desempenho:Bom",
+      "Desempenho:Irregular"
+    ]
+  },
+  {
+    "Page": "Conclusion",
+    "Code": "ConclusionPendencies",
+    "Options": [
+      "Sem pendências"
+    ]
+  },
+  {
+    "Page": "Conclusion",
+    "Code": "ConclusionObservations",
+    "Options": [
+      "Durante a auditoria técnica,  cada equipamento foi checado e aferido conforme Consecana e não foi detectado anomalias ou seja sem irregularidades.   Não foi possível auditar o método de trabalho pois a moagem estava parada por excesso de chuvas.",
+      "Nas auditadorias durante a semana cada equipamento,  processos e métodos de trabalhos foram checados e aferidos conforme normas do Consecana e não foi detectado qualquer anomalia ou seja sem irregularidades.",
+      "Durante a auditoria técnica,  cada equipamento,  processos e métodos de trabalhos foram checados e aferidos conforme Consecana e",
+      "Durante a auditoria técnica,  cada equipamento,  processos e métodos de trabalhos foram checados e aferidos conforme Consecana e não foi detectado anomalias ou seja sem irregularidades, tbem foi realizado teste interlaboratorial,  os resultados são enviados o",
+      "por email.",
+      "Por conta da pandemia, a visita tecnica foi remota, ou seja orientado as checagens dos equipamentos ao fiscal por telefone e não foi detectado anomalias ou seja sem irregularidades.",
+      "Durante a auditoria técnica cada equipamento,  processos e métodos de trabalhos foram checados e aferidos conforme normas técnica do Consecana e nenhuma anomalia foi detectado ou seja sem irregularidades.",
+      "Durante a auditoria técnica cada equipamento foi checado e aferido conforme normas do Consecana, não foi possível acompanhar o método de trabalho dos analistas pois a moagem estava parada por excesso de chuvas sem previsão de volta, mas não foi detectado anomalias ou seja sem irregularidades.",
+      "Durante auditoria técnica cada equipamento foi checado e aferido conforme Consecana, não foi possível acompanhar o método de trabalho pois a moagem estava parada por excesso de chuvas,  mas foi detectado irregularidades, sendo:",
+      "Durante auditoria técnica cada equipamento foi checado e aferido conforme normas do Consecana,  não foi possível auditar o método de trabalhos dos analistas pois o laboratório não estava analisando a indústria estava em manutenção. Foi"
     ]
   }
 ]
